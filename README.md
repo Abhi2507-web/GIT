@@ -9,3 +9,9 @@ This repository contains my Git and Github excercises.
 - Branches
 - Github
 
+# Add more topics
+
+- Repository
+- Terminal
+- VS code
+
